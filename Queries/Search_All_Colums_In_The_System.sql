@@ -1,3 +1,8 @@
+/*
+    Author: Tim Nguyen
+    Created Date: 09/08/2020
+*/
+
 --Find all TABLE by your column name.
 SELECT c.name AS 'Column_Name',
        t.name AS 'Table_Name'

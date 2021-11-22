@@ -1,5 +1,7 @@
--- Author: Tim Nguyen
--- Created Date: 09/08/2020
+/*
+    Author: Tim Nguyen
+    Created Date: 09/08/2020
+*/
 
 -- Step 1: If you are in the first time to use the script , run the script first and only one time.
 CREATE PROCEDURE FindMyData_String

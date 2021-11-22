@@ -1,3 +1,8 @@
+/*
+    Author: Tim Nguyen
+    Created Date: 09/08/2020
+*/
+
 -- To get all the executing query on the System
 
 SELECT sqltext.text,
